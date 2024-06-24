@@ -5,7 +5,7 @@ SnowNet is an innovative machine learning model developed to predict snow condit
 Project Overview
 
 Problem Statement: Predicting snow conditions in the Michigan Lake region is crucial for various stakeholders, including winter sports enthusiasts, transportation agencies, and emergency services. SnowNet addresses this challenge by harnessing the power of machine learning.
-Data Source: We have curated a comprehensive dataset comprising 50,000 rows of meteorological data and high-resolution lake images. This dataset has been meticulously preprocessed and integrated to ensure optimal model performance.
+Data Source: We have curated a comprehensive dataset comprising 80,000 rows of meteorological data and high-resolution lake images. This dataset has been meticulously preprocessed and integrated to ensure optimal model performance.
 Technical Approach: SnowNet utilizes advanced RNN and CNN architectures to process the input data and make predictions. The combination of these models allows us to capture both temporal dependencies in the meteorological data and spatial features in the lake images.
 Accuracy: SnowNet has been rigorously tested and evaluated, demonstrating exceptional technical prowess with a remarkable accuracy rate of 92.48% in snow condition prediction.
 Getting Started
